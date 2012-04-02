@@ -1,0 +1,67 @@
+﻿GNOLL
+Compiled by Brendan Adkins
+NOTES
+Since Gnollish society is matriarchal, female names are given a -sh suffix to indicate deference.  (Or something.)
+MALE
+1. Grangir
+2. Heenen
+3. Krachak
+4. Brangah
+5. Deegak
+6. Ninigin
+7. Shakshak
+8. Rikitak
+9. Kukin
+10. Nyragar
+11. Doben
+12. Brikin
+13. Yingar
+14. Zijak
+15. Ringak
+16. Hagashin
+17. Jinjar
+18. Rachagah
+19. Shrisheb
+20. Zugo
+FEMALE
+1. Dotigash
+2. Hagesh
+3. Jinkush
+4. Shriegash
+5. Zugesh
+6. Bingash
+7. Takesh
+8. Rikigash
+9. Brakagush
+10. Kuchakesh
+11. Heenkakash
+12. Ninigush
+13. Jagash
+14. Narkash
+15. Nyashash
+16. Snikesh
+17. Tirigash
+18. Kikigesh
+19. Shangesh
+20. Rinkush
+AMUSING GAMES OF THE GNOLLS
+1. Beat the Halfling
+2. How Long Will It Take That Bite To Fester, Wagers Here Please
+3. On-Fire Tag
+4. Will Your Arm Or My Jaw Break First, Oh Wait, It Was Your Arm
+5. Pee In Your Food
+6. What Will The Human Eat
+7. Sneak Up And Hit Very Hard
+8. Pin The Tail On The Elf, Where By "Tail" I Mean "Board With A Nail In It"
+9. Dwarfball
+10. Live Coals In Your Loincloth Dance-Off
+11. Sit On Head
+12. Make The Wizard Baa Like A Goat, Then Eat Him
+13. Very Loud Noise
+14. Guess Which Hand Is Going To Hit You
+15. Count The Welts
+16. Rock-Paper-I Can't Make My Paw Do A Scissors So I'm Going To Bite You
+17. You Are Stupid
+18. Poker
+19. Tetherdog
+20. Guess Whether I'm Beating You Into Unconsciousness Or Death

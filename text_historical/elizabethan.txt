@@ -1,0 +1,86 @@
+﻿ELIZABETHAN ENGLAND
+Compiled by Graham Walmsley
+MALE
+1. Peter
+2. John
+3. Gabriel
+4. Dudley
+5. Tobie
+6. Lodowick
+7. Barnaby
+8. Philip
+9. Henry
+10. William
+11. Walter
+12. Will
+13. Hugh
+14. Geoffrey
+15. Thomas
+16. Edward
+17. Thomas
+18. Francis
+19. Charles
+20. Matthew
+FEMALE
+1. Joan
+2. Elizabeth
+3. Mary
+4. Anne
+5. Margaret
+6. Grace
+7. Ellen
+8. Rose
+9. Marie
+10. Judith
+11. Constance
+12. Alice
+13. Isabel
+14. Jane
+15. Dorothy
+16. Anna
+17. Sara
+18. Katherine
+19. Beth
+20. Rosalind
+SURNAME
+1. Aubrey
+2. Harington
+3. Goodge
+4. Kemp
+5. Sidney
+6. Pope
+7. Bottinge
+8. Weever
+9. Wotton
+10. Cornwallis
+11. Fenton
+12. Andrewes
+13. Bryskett
+14. Davies
+15. Rich
+16. Essex
+17. Derricke
+18. Churchyard
+19. Jaggard
+20. Clifford
+AREAS OF LONDON
+1. Westminster
+2. Charing Cross
+3. St James' Park
+4. Lincoln's Inn Fields
+5. Clerkenwell
+6. Ludgate
+7. Blackfriars
+8. Southwark
+9. Aldersgate
+10. Finsbury Fields
+11. Bishopsgate
+12. Aldgate
+13. East Smithfield
+14. Shoreditch
+15. Spitalfields
+16. The Strand
+17. Cripplegate
+18. Holborn
+19. Bridewell
+20. Soho

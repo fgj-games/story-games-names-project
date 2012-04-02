@@ -1,0 +1,67 @@
+﻿221B BAKER STREET
+Compiled by Graham Walmsley
+NOTES
+Florid, literary late Victorian/Edwardian England, clue-hunting or otherwise.  
+MALE
+1. George
+2. James
+3. John
+4. Fairdale
+5. Hilton
+6. Ralph
+7. Hall 
+8. Jimmy
+9. Jasper
+10. Penrose
+11. Culverton
+12. Mortimer
+13. Owen
+14. Leon
+15. Percy
+16. William
+17. Grimesby 
+18. Robert
+19. Harry
+20. Aloysius
+FEMALE
+1. Patience
+2. Violet
+3. Kitty
+4. Hatty
+5. Julia
+6. Alicia
+7. Clara
+8. Mary
+9. Violet
+10. Edith
+11. Alice
+12. Sophy
+13. Maud
+14. Maggie
+15. Flora
+16. Frances
+17. Alice
+18. Helen
+19. Susan
+20. Irene
+SURNAME
+1. Pycroft
+2. McCarthy
+3. Brunton
+4. Musgrave
+5. Mawson
+6. Latimer
+7. Howells
+8. Stoner
+9. Roylott
+10. Pinner
+11. Hatherley
+12. Crowder
+13. Walsingham
+14. Armitage
+15. Roylott
+16. Farquhar
+17. Backwater
+18. St Simon
+19. Doran
+20. Soames

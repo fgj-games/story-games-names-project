@@ -1,0 +1,107 @@
+﻿IRISH
+Compiled by Moyra Turkington and Jason Morningstar 
+IRISH MALE
+1. Brendan
+2. Ryan
+3. Kyle
+4. Sean
+5. Conor
+6. Corey
+7. Cole
+8. Alan
+9. Riley
+10. Aidan
+11. Casey
+12. Liam
+13. Owen
+14. Miles
+15. Brennan
+16. Nolan
+17. Ross
+18. Rory 
+19. Kelly
+20. Declan
+IRISH FEMALE
+1. Fiona
+2. Brianna
+3. Maura
+4. Sheila
+5. Anna
+6. Margaret
+7. Maeve
+8. Kaylee
+9. Erin
+10. Kelly
+11. Clare
+12. Kira
+13. Mary
+14. Tracy
+15. Brenda
+16. Ashlyn
+17. Kathleen
+18. Patricia
+19. Tara
+20. Bridget
+IRISH SURNAMES
+1. Murphy
+2. Kelly
+3. O'Sullivan
+4. Walsh
+5. Smith
+6. O'Brien
+7. Byrne
+8. Ryan
+9. O'Connor
+10. O'Neill
+11. Wilson
+12. Doyle
+13. McCarthy
+14. Gallagher
+15. O'Doherty
+16. Kennedy
+17. Lynch
+18. Murray
+19. Quinn
+20. Campbell
+MALE FOLK 
+1. Bóinn (boe-in)
+2. Bóraimhe (boe-riv-eh)
+3. Céadach (kai-dukh)
+4. Ciarán (kee-ur-aun)
+5. Diarmaid (dee-ur-mwid)
+6. Éireamhóin (air-uv-oen)
+7. Feardhomhain (farr-ghou-in)
+8. Finn (finn)
+9. Guaire (goo-er-eh)
+10. Labhraidh (loor-ee)
+11. Liadhain (lee-en)
+12. Maodhóg (mwai-oge)
+13. Maolodhrán (mwai-ul-our-aun)
+14. Muircheartach (mwir-khart-ukh)
+15. Néidhe (nai)
+16. Oghma (oam-uh)
+17. Padraig (pau-drig)
+18. Suibhne (swiv-neh)
+19. Tighearnmhas (tee-urn-vus)
+20. Ughaine (oo-in-eh)
+FEMALE FOLK
+1. Aoibheall (ee-vul)
+2. Aoife (ee-fa)
+3. Brighid (bri-yid)
+4. Broicseach (bree-ksee-akh)
+5. Cailleach (koll-yukh)
+6. Clíona (klee-nuh)
+7. Éadaoin (ai-ud-een)
+8. Eithne (eh-in-eh)
+9. Ériu (air-u)
+10. Fuamnach (foo-ah-min-ock)
+11. Granuaile (graw-nya-wail)
+12. Meadhbh (mwai-uv)
+13. Mór (more)
+14. Muirne (mir-ne)
+15. Ní (nee)
+16. Niamh (nee-iv)
+17. Rionach (ree-in-ock)
+18. Sorcha (surk-ha)
+19. Tailtiu (toll-teu)
+20. Yseult (ee-solt)

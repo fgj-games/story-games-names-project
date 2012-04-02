@@ -1,0 +1,407 @@
+﻿SPANISH
+Compiled by Arturo González-Escribano, with thanks to Moyra Turkington
+NOTE ONE: SPANISH NAMES STRUCTURE
+The following guidelines about Spanish names construction does not try to be absolutely complete or precise. There are always exceptions and particular uses. However, they will help you to quickly recognize and construct consistent names of almost any common type.
+1) General Spanish-names structure
+In Spain a normal name is formed by a first name and two surnames:
+a) Nomb: "Nombre" (First name)
+b) AP: "Apellido paterno" (the first surname of the father)
+c) AM: "Apellido materno" (the first surname of the mother)
+Name = Nomb AP AM
+e.g. Ramón González Rodríguez
+All official identification cards, passports, and commercial transactions must be signed with the first name and the two surnames.
+2) Composed surnames
+Either AP or AM, or both, may be formed by two basic surnames separated by "de" (meaning "of"). In this case, AP and AM are separated by "y" (meaning "and") to distinguish them clearly. It is not so common but not rare.
+Name = Nomb AP1 de AP2 y AM; E.g. Ramón López de Uribe y Requejo
+Name = Nomb AP y AM1 de AM2; E.g. Ramón Requejo y López de Uribe 
+3) Surnames with the preposition "de"
+Some Spanish surnames begin with "del", or "de la", or "de los" (meaning approximately "from" or "of"). The different versions are male, female, or neutral gender respectively. The proper form is chosen depending on the genre of the word used as surname (which may be of course different from the person's genre).
+Name = Nomb  [del|de la|de los] AP   [del|de la|de los] AM
+e.g. María del Valle Gómez
+e.g. Juan Blanco de la Madrid
+e.g. Lucía de la Granja del Olmo 
+e.g. Juan de los Hoyos García
+4) Composed first names
+There are first names composed of two or even several normal ones. The most common combinations are based in catholic relevant characters and saints, but there are many others based on the most common first names. There are also many male names formed by any common male first-name followed by the name of the Virgin Mary. Some female names are formed following the same guidelines.
+e.g. Jesús María (Male)
+e.g. Luís María (Male)
+e.g. Ana María (Female)
+e.g. María Isabel (Female)
+e.g. Francisco Javier (Male)
+e.g. José Manuel (Male)
+e.g. Jorge Javier (Male)
+e.g. Luís Antonio (Male)
+e.g. Antonio Jesús (Male)
+A special very common female name is formed by the name or the Virgin Mary and Jesus:
+e.g. María Jesús (Female)
+5) First names including the preposition "de"
+The first name may also contain two parts separated by "de" or "de la" or "de los". This is typical in female names based in the Virgin Mary name (based in the name of a famous local image or in the virgin attributes).
+e.g. María de los Dolores
+e.g. María de la Concepción
+e.g. María del Valle
+Colloquially and even formally, the particles in the middle are easily lost:
+e.g. María Dolores (colloquial or formal)
+e.g. María Concepción (colloquial or formal)
+e.g. Mari-Valle (only colloquial)
+Moreover, it is normal that people with these names do not use their full names, except for identification upon authorities request. In normal life they only use the second part of it:
+e.g. Dolores
+e.g. Valle
+e.g. Concepción
+This use was so common that nowadays, many female children are given official names with only the second part. Some of them are common, others have never lost the original "Maria" first part. Some examples of common names which are now typically found alone:
+e.g. Concepción
+e.g. Esperanza
+e.g. Piedad
+6) The most frequent Spanish names usually have well known colloquial abbreviations or substitutions, sometimes not related to the original name. Some examples:
+e.g. Francisco = Paco (or its diminutive "Paquito")
+e.g. José = Pepe (or its diminutive "Pepito")
+e.g. (María de los) Dolores = Lola (or its diminutive "Lolita")
+e.g. (María de la) Concepción = Concha (or its diminutive "Conchita", or even "Conchi")
+7) Marriage and heritage
+In modern Spain normal people keep their surnames (with their own "apellido paterno" and "apellido materno") no matter if they get married or not. Women are never using the husband surname or surnames. Only nobility and conservative old aristocratic families keep such uses. 
+Sometimes, in special cases mainly related to the heritage of an important wealth or signature belonging to the mother, some people may ask the authorities to reverse the order of their surnames. This allows heirs of the second generation to use the surname associated with the heritage. The surnames of the mother are otherwise lost in the second generation.
+In special situations people may ask the central authorities for a complete change in their surnames, although it is uncommon.
+8) Using only one surname unofficially
+In non-formal situations people may use only one "apellido" for brevity. Indeed, it is typical that sports, political and cultural celebrities are known by only one surname, typically the first one.
+9) Using dashed surnames abroad
+A dash is not used to separate surnames in Spain. Only in very exceptional cases the parts of a composed surname are joined by a dash.
+However, a dash is used sometimes when Spanish people need to use their names abroad. This avoid other people to get confused and think that the "apellido paterno" is part of the first name:
+e.g. 
+"María García Barbosa" may write her name as "María García-Barbosa" when sending a paper to an international journal, or when attending a conference in England to avoid getting a badge reading: "M.G. Barbosa" instead of "M. García Barbosa".
+NOTE 2
+All the names in the following lists marked with an asterisk are either no longer frequent among young people, or somehow restricted to a region of Spain. Some of them are also quite old-fashioned.
+MALE 1
+1. Abelino *
+2. Alejandro
+3. Felipe
+4. Bonifacio *
+5. Bruno
+6. Carlos
+7. Adrián
+8. Armando
+9. Basilio *
+10. Álvaro
+11. Julio
+12. Leonardo
+13. Torcuato *
+14. Abelardo *
+15. Abel
+16. Urbano *
+17. Valentín
+18. Rufo * / Rufino
+19. Samuel
+20. Porfirio *
+FEMALE 1
+1. Ángeles (María de los) / Mari-ángeles / Nines
+2. Cecilia
+3. Julia
+4. Coral
+5. Araceli
+6. Amelia *
+7. Milagros (María de los)
+8. Claudia
+9. Mireia
+10. Estela
+11. Beatriz
+12. Cristina
+13. Rebeca
+14. Delfina *
+15. Engracia *
+16. Mariana
+17. Dora *
+18. Almudena
+19. Consolación (María de la) / Consuelo
+MALE 2
+1. Rafael
+2. Moro
+3. Nemesio *
+4. Diego
+5. Emilio
+6. Alberto
+7. Francisco / Paco / Paquito
+8. Gabriel
+9. Agustín
+10. Domingo
+11. Eduardo
+12. Horacio
+13. Arturo
+14. Augusto
+15. Bartolo *
+16. Eladio *
+17. Gerardo
+18. Enrique / Quique
+19. Néstor
+20. Ramiro
+FEMALE 2
+1. Elisa
+2. Blanca
+3. Rosalía
+4. Camila *
+5. Nelia *
+6. Patricia
+7. Anunciación (María de la)
+8. Camino (María del) *
+9. Dolores (María de los) / Lola / Lolita
+10. Elena / Helena
+11. Mónica
+12. Piedad (María de la)
+13. Julieta *
+14. Monserrat
+15. Natalia
+16. Laura
+17. Margarita
+18. Pilar (María del) / Pili
+19. Sara
+20. Concepción  (María de la) / Concha
+MALE 3
+1. Santiago / Santi
+2. Vicente
+3. Leoncio *
+4. Andrés
+5. Isidro
+6. Joaquín
+7. Hernando
+8. Hugo
+9. Ignacio
+10. Iñigo
+11. Mauricio / Mauri
+12. Miguel
+13. Nicanor *
+14. Raúl
+15. Ricardo
+16. Isaac
+17. Isidoro *
+18. José / Pepe
+19. Juán
+20. Marco
+FEMALE 3
+1. Elvira
+2. Raquél
+3. Sandra
+4. Alma *
+5. María
+6. Rosa
+7. Silvia
+8. Rosario (María del)
+9. Sofía
+10. Esther
+11. Josefa / Josefina
+12. Adelaida *
+13. Violeta *
+14. Virginia
+15. Susana
+16. Leticia
+17. Tatiana
+18. Nieves (María de las)
+19. Miriam
+20. Esperanza (María de la)
+MALE 4
+1. Jorge
+2. Benito
+3. Casiano *
+4. Félix
+5. Fernando
+6. Mateo
+7. Matías
+8. Roberto
+9. Julián
+10. Leopoldo *
+11. Alfonso
+12. Gregorio / Goyo
+13. Eleuterio *
+14. Jesús
+15. Rodolfo
+16. Mario
+17. Lorenzo
+18. Luís
+19. Manuel
+20. Rodrigo
+FEMALE 4
+1. Amparo (María del)
+2. Celia
+3. Emilia *
+4. Luisa
+5. Maite
+6. Olga
+7. Marta
+8. Lourdes
+9. Herminia *
+10. Ana
+11. Belén
+12. Carmela *
+13. Angélica
+14. Inés
+15. Begoña
+16. Carmen
+17. Carolina
+18. Ángela
+19. Inmaculada (María) / Inma
+20. Eugenia
+MALE 5
+1. Tomás
+2. Víctor
+3. Rubén
+4. Sergio
+5. Nicolás
+6. Oscar
+7. Pablo
+8. Pascual
+9. Marcos (also a surname)
+10. Ismael
+11. Jaime
+12. Alfredo
+13. Guillermo
+14. Gustavo
+15. Héctor
+16. Eugenio
+17. Ángel
+18. Esteban
+19. Fidel
+20. Germán
+FEMALE 5
+1. Eva
+2. Felisa
+3. Genma
+4. Aurora
+5. Bárbara
+6. Henar (María del) *
+7. Isabel
+8. Jacinta *
+9. Lucía
+10. Mercedes (María de las)
+11. Olvido
+12. Paloma
+13. Teresa
+14. Valle (María del)
+15. Yolanda
+16. Alejandra
+17. Alicia
+18. Judit
+19. Sonia
+20. Soraya
+21. Veronica / Vero
+MALE 6
+1. Antonio / Toño / Toñín
+2. Constantino / Tino
+3. Daniel
+4. Aquilino *
+5. Bernardo
+6. Casimiro *
+7. Argimiro *
+8. Benjamín
+9. César
+10. Darío
+11. David
+12. Ernesto
+13. Gonzalo
+14. Javier
+15. Martín (also a surname)
+16. Pedro
+17. Ramón
+18. Teodoro
+19. Virgilio *
+20. Zacarías *
+SURNAMES 1 
+1. Moreno
+2. Rodríguez
+3. Serrano
+4. Soto
+5. Muñiz
+6. Prieto
+7. Rivera
+8. Muñoz
+9. Navarro
+10. Pastor
+11. Montañés
+12. González
+13. Casado
+14. Ferrán
+15. García
+16. del Castillo
+17. Castro
+18. Arribas
+19. Cela
+20. Cortés
+SURNAMES 2
+1. Duque
+2. Escudero
+3. Fernández
+4. Garza
+5. Gutiérrez
+6. Guzmán
+7. Hernández
+8. Montoya
+9. Pena
+10. Robledo
+11. de la Torre
+12. Villanueva
+13. Roldán
+14. Ruiz
+15. Sánchez
+16. Morales
+17. Santamaría
+18. Bueno
+19. Abad
+20. Flores
+SURNAMES 3
+1. Galán
+2. Torres
+3. Vargas
+4. Santos
+5. de la Rosa
+6. Reyes
+7. Navas
+8. Cano
+9. del Campo
+10. Molpeceres
+11. Ortega
+12. Lara
+13. López
+14. Martín
+15. Garzón
+16. Cuervo
+17. Delgado
+18. Medina
+19. Gómez
+20. Merino
+SURNAMES 4
+1. Ávila
+2. Barragán
+3. Díaz
+4. Gil
+5. Martínez
+6. Ortiz
+7. Paredes
+8. del Río
+9. Sanz
+10. Vega
+11. Gallego
+12. Crespo
+13. Díez
+14. Aguilar
+15. Calleja
+16. Álvarez
+17. Carrión
+18. Aragón
+19. Ferreiro
+20. Domínguez
+SURNAMES 5
+1. Galván
+2. Arias
+3. Blanco
+4. del Arco
+5. Arranz
+6. Barrios
+7. Pérez
+8. del Pozo
+9. Carbajo
+10. Jiménez
+11. Lagunar
+12. Molinero
+13. Beltrán
+14. Herrera
+15. Izquierdo
+16. Mendoza
+17. del Bosque
+18. Alonso
+19. Calvo
+20. Segundo

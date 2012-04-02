@@ -1,0 +1,258 @@
+﻿MODERN CHINESE NAMES
+Compiled by Jonathan Walton
+NOTES
+Westerners encounter Chinese names in a variety of different formats, based on 1) which transliteration system (pinyin, Wade-Giles, HK government, some improvised system) is being used, 2) which dialect the name is being transcribed from (Mandarin, Cantonese, Fukien), 3) which order the various parts of the name (surname, given name, English name) are put in.  Let's deal with the last issue first, since it's the most complex.
+PARTS OF A CHINESE NAME
+1) Surname
+There is a limited list of commonly-encountered Chinese surnames, numbering around 500.  Most of these are a single character, but two-character surnames do exist and are especially popular for dramatic personae because of their unusual flavor.  The 20 most common surnames account for around 50% of the population, which is why you encounter so many people named Wang, Li, Zhang, Liu, Huang, Zhao, Ma, etc.  The 100 most common surnames account for about 85% of Chinese people everywhere.
+2) Given Name
+Chinese given names are either one or two characters and can be almost anything.  However, in practice, most character combinations don't make good names.  Developing a sense of what is and isn't a good name can be difficult if you are not in an environment where you know thousands of Chinese people and can infer good names from those you already know.  There are names that are clearly female, those that are clearly male, and those that are ambiguous.  Generally, female names are often related to flowers, birds, beauty, and other "feminine" things.  Male names are often abstract virtues (strength, diligence, wherewithal).  Some given names either are or sound like verb-object combinations or other grammatical phrases, like "seeks truth" or "bright future."  Not all of them make that kind of grammatical sense.  My Chinese name means "strong life," but no one would actually use that character combination in a sentence.
+a) Generational Names
+Traditionally, all family members of a specific generation (you, your siblings, and your cousins) might share the first character of their given name.  Li Mubai, for example, might have a cousin named Li Murong.  The next generation would have a different generational character in their name.  Sometimes these characters, when written together, form a poem or admonition.  Generational names are not especially common in modern times (partially due to the One Child Policy), but you do run into them occasionally, with cousins.  Soon, however, most urban people won't have cousins.
+b) Birth Order Names
+Way, way back, the first character of your given name was often an indication of what order you were born in. This practice is even less common than generational names, but sometimes a family will decide to be old fashioned. Still, let's not deal with it. 
+3) English Name
+Many Chinese people have adopted or been given English names, especially those living abroad, those living in Hong Kong or Macao, and those who regularly interact with Westerners.  Usually, the names chosen are common, somewhat old-fashioned, and  diminutive (often ending in "-y" or "-ie") Anglo-American names, so they sound ultra-Anglo, even more Anglo than the Anglos.  Hence the prevalence of Jackie, Jay, Faye, Sammi, Jimmy, Kelly, Johnny, Tony, Andy, etc.  The names of Chinese people born on foreign soil (and, thus, native citizens of non-Chinese countries) are not always so cutesy, but Chinese parents do seem to pick names that are especially common and familiar, trying to stand out as little as possible.
+ORDERING A CHINESE NAME
+Traditional: Surname + Given Name = Liang Jiawei / Leung Chiu-wai
+Traditional HK Style: Anglo Name + Surname + Given Name = Tony Leung Chiu-wai
+Short Flipped HK Style: Anglo Name + Surname = Tony Leung
+Long Flipped HK Style: Anglo Name + Given Name + Surname = Tony Chiu-wai Leung
+Space, No Space, Hyphen, Apostrophe?
+If you have a two-character given name (or a rare two-character surname), you can either 1) put a space between the characters and capitalize both (Chiu Wai), 2) hyphenate them and capitalize just the first one or both (Chiu-wai / Chiu-Wai), 3) not have any divider between them at all (Jiawei), or, 4) if there's the possibility that running them together might cause them to be read incorrectly, you can put an apostrophe between the two characters (Ji'nan vs. Jin'an).  Which method you use also has cultural considerations.
+People from HK and Taiwan (and Macao, and Singapore) love hyphens.  Hyphenate that bad boy and be done with it.  But they're not always consistent, so you could do it another way, if you prefer.  People from the mainland tend to run the characters together and use apostrophes in the rare cases where they might be necessary.  Usually you don't need a divider (Mao Zedong, Zhu Rongji, Deng Xiaoping).  Some people prefer to space all the characters out (Deng Xiao Ping), but this is much less common.
+Chinese people in other parts of the world (the diaspora) are not especially consistent.  Look up a bunch of Chinese names in the area you want your character to be from and punctuate your name accordingly.
+COMMON SURNAMES 1 
+(Pinyin / Wade-Giles / HK/Cantonese)
+1. Li / Li / Lee		
+2. Wang / Wang / Wong
+3. Zhang / Chang / Cheung
+4. Liu / Liu / Lau
+5. Chen / Ch'en / Chan
+6. Yang / Yang / Yeung
+7. Huang / Huang / Wong
+8. Zhao / Chao / Chiu
+9. Zhou / Chou / Chow
+10. Wu / Wu / Ng
+11. Xu / Hsu / Tsui
+12. Sun / Sun / Suen
+13. Zhu / Chu / Chu
+14. Ma / Ma / Ma
+15. Hu / Hu / Woo
+16. Guo / Kuo / Kwok
+17. Lin / Lin / Lam
+18. He / He / Ho
+19. Gao / Kao / Ko
+20. Liang / Liang / Leung
+COMMON SURNAMES 2 
+(Pinyin / Wade-Giles / HK/Cantonese)
+1. Zheng / Cheng / Cheng
+2. Luo / Lo / Lo
+3. Song / Sung / Soong
+4. Xie / Hsieh / Tse
+5. Tang / T'ang / Tong
+6. Han / Han / Hon
+7. Cao / Ts'ao / Tso
+8. Xu / Hsu / Hui
+9. Deng / Teng / Tang
+10. Xiao / Hsiao / Siu
+11. Feng / Feng / Fung
+12. Zeng / Tseng / Tsang
+13. Cheng / Ch'eng / Ching
+14. Cai / Ts'ai / Choi
+15. Peng / P'eng / Pang
+16. Pan / P'an / Poon
+17. Yuan / Yuan / Yuen
+18. Yu / Yu / Yue
+19. Dong / Tung / Tung
+20. Yu / Yu / Yee
+COMPOUND SURNAMES 
+(Pinyin and HK/Cantonese)
+1. Baili / Pak Lee
+2. Dongfang / Tung Fong				
+3. Duanmu / Tuen Muk			
+4. Gongsun / Kung Suen	
+5. Guliang / Kuk Leung				
+6. Helian / Hak Lin										
+7. Huyan / Fu Yin			
+8. Linghu / Ling Wu	
+9. Murong / Mo Yung	
+10. Nangong / Nam Kung				
+11. Ouyang / Au Yeung				
+12. Shangguan / Sheung Kwun	
+13. Sima / Sze Ma	
+14. Situ / Sze To		
+15. Taishi / Tai Shi	
+16. Ximen / Sai Mun		
+17. Zhangsun / Cheung Suen					
+18. Zhuge / Chu Kok	
+19. Zhurong / Chok Yung 		
+20. Zuoren / Tso Yan
+FEMALE MANDARIN GIVEN NAMES 1
+1. Yandong
+2. Jianxiu
+3. Luli
+4. Xiulian
+5. Sheng
+6. Fangchun
+7. Jie
+8. Chunmei
+9. Guoying
+10. Jingzhen
+11. Yiping
+12. Ling
+13. Pingyan
+14. Shiyu
+15. Jinhua
+16. Dan
+17. Xiuli
+18. Lili
+19. Yinting
+20. Paihong
+MALE MANDARIN GIVEN NAMES 1
+1. Zhongyu
+2. Hui
+3. Jin
+4. Siqin
+5. Guoming
+6. Lichen
+7. Haocai
+8. Kehui
+9. Tienong
+10. Kuiyuan
+11. Kuangdi
+12. Zhaozhuo
+13. Mengfu
+14. Xuan
+15. Meng
+16. Lei
+17. Zhaoguo
+18. Tieying
+19. Huaren
+20. Jialu
+FEMALE MANDARIN GIVEN NAMES 2
+1. Lihua
+2. Huirong
+3. Mei
+4. Hongwu
+5. Hui
+6. Cunxiu
+7. Zhuanrong
+8. Ya
+9. Shaoming
+10. Jiaohua
+11. Yun
+12. Zhenzhen
+13. Chenghua
+14. Xiaonan
+15. Zhisheng
+16. Hua
+17. Qin
+18. Li
+19. Luming
+20. Xianglan
+MALE MANDARIN GIVEN NAMES 2
+1. Shisun
+2. Yongxiang
+3. Qide
+4. Bangguo
+5. Jiabao
+6. Peiyan
+7. Liangyu
+8. Yongkang
+9. Jianmin
+10. Zhili
+11. Caihou
+12. Ji'nai
+13. Guanglie
+14. Bingde
+15. Qingchen
+16. Dingfa
+17. Zhiyuan
+18. Xilong
+19. Yang
+20. Chunwang
+HK/CANTONESE FEMALE GIVEN NAMES
+1. Shuk-Yee
+2. Chung-Yee
+3. Sau-Tung
+4. Mei-Mei
+5. Bee-Lung
+6. Cheuk-Wa
+7. Kin-Wo
+8. Wai-Lee
+9. Yat-Fan
+10. Mun-Kit
+11. Yen-Mah
+12. Ho-Kwan
+13. Kwai-Hing
+14. Man-Wai
+15. Kar-Mei
+16. Yuk-Yin
+17. Chun-Chi
+18. Fung-Ying
+19. Lei-Kuan
+20. Ai-Kyeu
+HK/CANTONESE MALE GIVEN NAMES 
+1. Si-Yan
+2. Ming-Yueng
+3. Ying-Yen
+4. Yan-Lung
+5. Chi-Ping
+6. Kwok-cheung
+7. Shu-Kwan
+8. Si-Hang
+9. Sui-Lung
+10. Siu-Kwong
+11. Yat-Ngok
+12. Chun-Ying
+13. Yok-Sing
+14. Yiu-Tong
+15. Cheung-Sing
+16. Kwok-Po
+17. Yeh-Kwong
+18. Che-Hung
+19. Kin-Tung
+20. Hung-Ling
+COMMON FEMALE HK ENGLISH NAMES 
+1. Selina
+2. Sarah
+3. Denise
+4. Kelly
+5. Samantha / Sammy
+6. Connie
+7. Stephanie
+8. Cecilia
+9. Vivian
+10. Maggie
+11. Teresa
+12. Ella
+13. Sandy
+14. Tiffany
+15. Karen
+16. Janice
+17. Sally
+18. Isabella
+19. Mandy
+20. Rachel
+COMMON MALE HK ENGLISH NAMES 
+1. Donald / Donny
+2. Henry
+3. Michael
+4. Joseph / Joe
+5. Patrick
+6. Stephen
+7. Andrew / Andy
+8. Charles / Charley
+9. Ronald / Ronny
+10. David
+11. Victor
+12. William
+13. Jackie / Jacky
+14. John / Johnny
+15. Daniel / Danny
+16. Eason
+17. Edison
+18. Aaron
+19. Anthony / Tony
+20. Nicolas

@@ -1,0 +1,46 @@
+﻿PRIMITIVE NAMES
+Compiled by Joshua BishopRoby
+NOTES
+This is a set of two lists that are meant to go together.  Pick an element from the first list and one from the second list and mash 'em together.  If you get excited, use more than one from a list.  This particular set works for primitive cultures close to the natural world.  
+FIRST LIST
+1. Green
+2. Red
+3. Black
+4. Brown
+5. Barren
+6. Fat
+7. Wise
+8. Smoking
+9. Singing
+10. Barren
+11. Strong
+12. Laughing
+13. Dancing
+14. Crazy
+15. Mad
+16. Silent
+17. Bright
+18. Crippled
+19. Serene
+20. (None; skip this column)
+SECOND LIST
+1. Dawn
+2. Tree
+3. Bear
+4. Brook
+5. Field
+6. Wolf
+7. Knife
+8. Fire
+9. Hand
+10. Stone
+11. Moose
+12. Mountain
+13. Song
+14. Pipe
+15. Spear
+16. Cat
+17. Leaf
+18. Sky
+19. Moon
+20. (None; skip this column)

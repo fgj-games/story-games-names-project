@@ -1,0 +1,152 @@
+﻿CHECHEN
+Compiled by Jason Morningstar
+NOTES
+Compiled from http://wwwchechnyafreeru/indexphp?lng=eng&section=clanguageeng&row=5
+"Name is the glory of the mighty but it can also be a disgrace and infamy of the weak"
+MALE 1
+1. Sutarbi / greedy 
+2. Abdulrakhman / slave of the All-mighty
+3. Kurbika / proud 
+4. Abbas  / sullen
+5. Dika / good
+6. Abdul-Khamid 
+7. Ali / elevated
+8. Akhmad / glorified
+9. Mukhammad / glorious
+10. Bulat / steel
+11. Vadud / affectionate
+12. Daud / loving friend
+13. Jamal / beauty
+14. Jamaldin / the beauty of faith
+15. Mansur / victorious
+16. Ayub / repentant
+17. Dzhalal 
+18. Abu / father 
+19. Magomet 
+20. Said-Khasan 
+FEMALE
+1. Zulai 
+2. Yakha / live
+3. Zargan 
+4. Malika / queen
+5. Yakhiyta / let her live
+6. Laila  / lily
+7. Zainab / buxom
+8. Aisha / alive
+9. Khaza / beautiful 
+10. Maira / courageous
+11. Fatima
+12. Yisa / stay
+13. Satziyta / let it stop
+14. Mariam
+15. Venera
+16. Iya
+17. Nina
+18. Vera
+19. Milana
+20. Dobryna
+MALE 2
+1. Abdul-Malik 
+2. Osman 
+3. Aslanbek 
+4. Khadzhi 
+5. Katy (yes, it is a guy's name)
+6. Movsur 
+7. Akhmat 						
+8. Abdullah  / slave of the Allah
+9. Aslambek 
+10. Salambek 
+11. Ibrakhim /  father of all nations
+12. Malik / possessor
+13. Usman 
+14. Inarkaev 
+15. Ziya 
+16. Nurdin 
+17. Tashtemir 
+18. Yunusov 
+19. Adnan 
+20. Yunus 
+SURNAMES 1 
+1. Hamidov
+2. Umkhayev 
+3. Kadyrov 
+4. Aslakhanov 
+5. Khadzhiev 
+6. Bisliev 
+7. Ibragimov 
+8. Musliyevich 
+9. Rushisvili
+10. Shervashidze
+11. Vizirov
+12. Melikov
+13. Sultygov 
+14. Inarkaevich 
+15. Eldarkhanov 
+16. Khadzhiyev 
+17. Gairbekov 
+18. Masaev 
+19. Bazhaev 
+20. Usamov  
+SURNAMES 2
+1. Akhtakhanov
+2. Sheripov 
+3. Kishiev 
+4. Sultanovich  
+5. Desheriyev 
+6. Arsanukayev 
+7. Vedzizhev 
+8. Kadiev 
+9. Akhtakhanov 
+10. Bataev 
+11. Chichigov
+12. Dratchev
+13. Godina
+14. Karataev
+15. Panova 
+16. Ryzaev
+17. Timayev
+18. Batukayev 
+19. Korgay
+20. Barsukov
+NICKNAMES 1
+1. Chiygyardig / a swallow 
+2. Kuyara / a hawk 
+3. Borz / a wolf 
+4. Ovlur / a lamb of winter cattle 
+5. Lom / a lion 
+6. Bozh / a goat
+7. Markha / a cloud 
+8. Seda / star 
+9. Batta / lunar 
+10. Mayalkh-ayazni / solar beauty 
+11. Moma  / a partridge 
+12. Selasat / oriole 
+13. Chovka / a rook 
+14. Durgali / a white-bellied martin 
+15. Makkhal / a black kite 
+16. Olkhazar / a bird 
+17. Khyoza / a sparrow 
+18. Lecha / a falcon 
+19. Ayrzu / an eagle
+20. Kotam / a hen 
+NICKNAMES 2
+1. Kameta / comet 
+2. Cha / a bear 
+3. Nal / a wild boar denoting power 
+4. Zhyogal / a fox denoting servility 
+5. Dakka / a mouse denoting sneakiness 
+6. Zizig a cat 
+7. Kyeza / a puppy 
+8. Lu / a roe-buck
+9. Sai is a deer denoting gracefulness
+10. Khokha / a dove 
+11. Todakh / a piper 
+12. Nyanya / a rooster 
+13. LaykHya / a snake 
+14. Moylkya / a lizard 
+15. Pkhid / a frog 
+16. Gezg / a spider 
+17. Segal / a flea 
+18. Zyubdar / a leech 
+19. Deti / silver 
+20. Polla / a butterfly 

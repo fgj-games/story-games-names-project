@@ -1,0 +1,109 @@
+﻿INUIT
+Compiled by Jason Morningstar
+NOTES
+These personal names were randomly generated from Inuit-esque phonemes.
+MALE NAMES 
+1. Pukivik 
+2. Noagunegak 
+3. Tooaarvik
+4. Teqkuagguk
+5. Toosivu
+6. Tankuageak
+7. Autiaq 
+8. Aupalusuq 
+9. Avinaaq
+10. Kuviguk
+11. Tornviyok
+12. Aitelik 
+13. Tsetevu
+14. Aknikok
+15. Sausulik
+16. Norluteak
+17. Tulutvu
+18. Atuqulk 
+19. Aukuagcheeak
+20. Toomingchuk 
+FEMALE NAMES
+1. Alutta
+2. Aklavu
+3. Kupalunek 
+4. Sausuak 
+5. Uluglulik
+6. Nuqmavik
+7. Piaarguk
+8. Paalavik 
+9. Puknabuk 
+10. Aiqatchuk
+11. Ulunatoq
+12. Nuvivik 
+13. Qaatuqtok
+14. Teqgluyuk
+15. Ullorhorulk
+16. Noauchtok
+17. Aludvik 
+18. Millutkap
+19. Kituqanak
+20. Noasaqanak
+SORCERERS, SPIRITS, AND OUTSIDERS
+1. Alaraq 
+2. Akalaaq
+3. Aukuagmaq
+4. Aqigaq
+5. Noasagaq 
+6. Tookuagaq
+7. Nuqpaluaq 
+8. Kiqiaq
+9. Ailuqsaq
+10. Noruaqsaq
+11. Qaaqatchaq 
+12. Nutarnegaq
+13. Saulaqaaq
+14. Aklajaq
+15. Aupaluchaq
+16. Maqpaluorq
+17. Paguchaq
+18. Akvuvigaq
+19. Aksaggaq
+20. Tsenaaq
+NORTHERN BEASTS
+1. Ptarmigan / aqisseq
+2. Shark / eqalussuaq
+3. Bear / nanoq
+4. Seal / natsiq
+5. Dog / qimmiq
+6. Fish / iqualuit
+7. Caribou / tuktu
+8. Walrus / aiviq
+9. Fox / tiriganiaq
+10. Whale / arvik
+11. Eight legged polar bear / qupqugiak
+12. Lynx / pusiaraaluk
+13. Dall sheep / saugaak
+14. Moose / tuktuvak
+15. Two-headed sea monster / kavvavaaq
+16. Gull / naujaq
+17. Walking corpse / timiviniq
+18. Killer whale / aarluk
+19. Wolf / amaruq
+20. Weasel / tiriaq
+LOCATIONS
+1. Akuliakat / point of land between two bays
+2. Ammituq / the narrows
+3. Ikerasak / the channel
+4. Innuksuk / the cairn
+5. Isortoq / the foul place
+6. Iterdlugssuak / shelter bay
+7. Kangeeak / promontory
+8. Kekertuk / western island
+9. Kingmitokvik / place where dogs are kept
+10. Kuuk / the river
+11. Narssurssuk / the large plain
+12. Niarkrok / the headland
+13. Nuvuk / the cape
+14. Qikirtaq / the small island
+15. Sadlek / the place opposite
+16. Tikerak / where many people arrive
+17. Qulliq / place of the stone lamp
+18. Tupiq / skin tent place
+19. Untqiagvik / place where snowy owls rest
+20. Kakivak / place of the spear

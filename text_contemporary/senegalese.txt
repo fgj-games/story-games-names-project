@@ -1,0 +1,65 @@
+﻿SENEGALESE
+Compiled by Moyra Turkington
+MALE
+1. Thiemo
+2. Djubril
+3. Tidiane
+4. Ousseynou
+5. Ibrahima
+6. Mamadou
+7. Ousmane
+8. Lamine
+9. Abdoulaye
+10. Mbaye
+11. Khadim
+12. Boubacar
+13. Malick
+14. Ibou
+15. Cheikh
+16. Papis
+17. Tapha
+18. Ablaye
+19. Moustapha
+20. Samba
+FEMALE
+1. Aissatou
+2. Aicha
+3. Fatou
+4. Khady
+5. Aminata
+6. Mariama
+7. Astou
+8. Seynabou
+9. Coumba
+10. Dieynaba
+11. Sokhna
+12. Khadidiatou
+13. Rokhaya
+14. Ramatoulaye
+15. Dieyna
+16. Oumy
+17. Ndeye
+18. Zeyna
+19. Nabou
+20. Maimouna
+SURNAMES
+1. Drame
+2. Sako
+3. Gbodossou
+4. Biteye
+5. Ngom
+6. Mboup
+7. Mbaye
+8. Diouf     
+9. Ndar
+10. Dakono
+11. Amu
+12. Kouyate
+13. Diabete
+14. Kante
+15. Thiam
+16. Gueye
+17. Dial
+18. Ndiaye
+19. Faye
+20. Kuti

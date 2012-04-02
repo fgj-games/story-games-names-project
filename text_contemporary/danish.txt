@@ -1,0 +1,92 @@
+﻿DANISH
+Compiled by Jason Morningstar
+MALE NAMES 1
+Magnus                                                                                                
+Oliver                                                                                                                                                                                                                        Frederik                                                                                                                                                                                                               Emil                                                                                                                                                                                                                          Mikkel                                                                                                                                                                                                              Tobias                                                                                                                                                                                                                         Nikolaj                                                                                                                                                                                                                                    Victor                                                                                                                                                                                                                                                         Sebastian                                                                                                                                                                                                                                                          Mads                                                                                                                                                                                                                                               Christian                                                                                                                                                                                                                                                        Rasmus                                                                                                                                                                                                                                                Jakob                                                                                                                                                                                                                                                           Jonas                                                                                                                                                                                                                                                           Marcus                                                                                                                                                                                                                                                         Kasper                                                                                                                                                                                                                                                          Andreas                                                                                                                                                                                                                                                           Simon    
+Lucas         
+Mathias                                                                                                                                                                                           
+FEMALE NAMES 1
+Mathilde
+Emma  
+Laura   
+Sofie   
+Freja   
+Caroline 
+Ida 
+Sara  
+Julie  
+Anna  
+Josefine   
+Maja  
+Cecilie  
+Clara    
+Katrine 
+Amalie 
+Victoria  
+Emilie 
+Lærke   
+Signe 
+MALE NAMES 2
+Noah 
+Nicklas 
+Lasse 
+Jeppe 
+Valdemar 
+Gustav 
+William
+Alexander 
+Malthe 
+Daniel 
+Benjamin
+Philip
+Christoffer 
+Anders 
+Anton
+Jonathan 
+Carl 
+Adam
+Silas 
+Marius 
+FEMALE NAMES 2
+Anne 
+Jasmin 
+Nicoline 
+Frederikke 
+Mille 
+Sofia 
+Camilla         
+Maria 
+Alberte
+Frida  
+Marie 
+Isabella 
+Nanna 
+Liva 
+Louise 
+Andrea 
+Thea 
+Line 
+Rebecca 
+Johanne 
+Tille
+SURNAMES
+1. Jensen 
+2. Nielsen 
+3. Hansen 
+4. Pedersen 
+5. Andersen 
+6. Christensen 
+7. Larsen 
+8. Sørensen 
+9. Rasmussen 
+10. Jørgensen 
+11. Petersen 
+12. Madsen 
+13. Kristensen 
+14. Olsen 
+15. Thomsen 
+16. Christiansen
+17. Poulsen
+18. Johansen 
+19. Knudsen 
+20. Mortensen 

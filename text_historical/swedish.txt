@@ -1,0 +1,112 @@
+﻿SWEDEN
+Compiled by Olle Jonsson and Jason Morningstar
+MALE
+1. Oscar 
+2. William 
+3. Lucas 
+4. Filip 
+5. Isak 
+6. Elias 
+7. Alexander 
+8. Emil 
+9. Hugo 
+10. Viktor 
+11. Axel   
+12. Kristian 
+13. Daniel     
+14. Tobias
+15. Stefan 
+16. Per
+17. Jonas   
+18. Jon
+19. Joseph 
+20. Mattias   
+FEMALE
+1. Ella
+2. Hanna 
+3. Alva 
+4. Emma
+5. Elin 
+6. Linnéa 
+7. Ida 
+8. Alice 
+9. Julia 
+10. Maja 
+11. Johanna
+12. Susanna
+13. Anna
+14. Anja
+15. Ester   
+16. Kristina
+17. Rebecca 
+18. Elisabeth
+19. Marianne
+20. Judith 
+SURNAMES
+1. Johansson
+2. Andersson
+3. Karlsson
+4. Nilsson 
+5. Eriksson
+6. Larsson
+7. Olsson
+8. Persson 
+9. Svensson
+10. Gustafsson 
+11. Pettersson
+12. Jonsson 
+13. Jansson
+14. Hansson
+15. Bengtsson
+16. Jönsson 
+17. Petersson
+18. Carlsson
+19. Gustavsson
+20. Magnusson
+NOTES
+The smugglers are a sub-set of Swedish names in the 1920s-30s. In the style of the historical smuggler-king Algoth Niska.  Sources:  
+http://en.wikipedia.org/wiki/Algot_Niska
+http://sydaby.eget.net/swe/kanister.htm
+http://www.imdb.com/title/tt0090038/
+SMUGGLERS
+1. Kolar-Alfred (Coaler-Alfred)
+2. Axel Winkel
+3. Gösta i Broby (Gösta of Broby)
+4. Edvard Kron
+5. Vrak-Elof (Vrak: Wreck)
+6. Rune Spetsig (Spetsig: Pointy)
+7. Kräk-Olle (Kräk: either "puke" or "weasel")
+8. Janne Torpare (Torpare: cottage-dweller)
+9. Calle Cederström
+10. Ernst i Hulta (Hulta: rural placename)
+11. Sundberg
+12. Gäddsnärjarn (catcher of pike)
+13. Efraim
+14. Vesterman
+15. Kalle i Udden
+16. Landström
+17. pråmskeppar Jansson
+18. Sammel i Hyra
+19. Johan i Bogård
+20. Valfrid Lindholm
+SMUGGLER LADIES
+1. Gerda
+2. Vera
+3. Lilly
+4. Hilma
+5. Alma
+6. Olivia
+7. Botilda
+8. Ida 
+9. Olivia
+10. Agnes 
+11. Magdalena
+12. Kerstin
+13. Rut
+14. Nanna
+15. Olga
+16. Ingeborg
+17. Selma
+18. Ingelöf
+19. Elna
+20. Märta

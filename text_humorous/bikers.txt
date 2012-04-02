@@ -1,0 +1,44 @@
+﻿BIKERS
+Compiled by Graham Walmsley
+MALE
+1. Mad Dog
+2. Goose
+3. Red Tex
+4. Chainsaw
+5. Dagger
+6. Skullsmasher
+7. Hog
+8. Deaf Charlie
+9. Bone
+10. Blackbeard
+11. Bull
+12. Headbanger
+13. Pitbull
+14. Crusher
+15. Hammer
+16. Warlock
+17. Pretty Boy Pete
+18. Chip
+19. Bear
+20. Ratty
+FEMALE
+1. Dirty Jen
+2. Mama
+3. Cosmo
+4. Fox
+5. Spanner
+6. Hippy
+7. Vulture
+8. Cakes
+9. Pigeon
+10. Jet 
+11. Pig
+12. Magpie
+13. Bitch
+14. Valkyrie
+15. Ratty
+16. Big Tina
+17. Diva
+18. Scarlet
+19. Red Mag
+20. Blackie

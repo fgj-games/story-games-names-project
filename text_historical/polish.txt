@@ -1,0 +1,128 @@
+﻿POLISH
+Compiled by Radek Drozdalski
+MALE NAMES 1
+1. Adam (Adas)
+2. Stefan
+3. Zenon (Zenek)
+4. Tadeusz (Tadzio)
+5. Wieslaw (Wiesiu)
+6. Jerzy (Jurek)
+7. Mieczyslaw (Mieciu)
+8. Radislaw
+9. Jzef (J zek)
+10. Witold (Witek)
+11. Aleksander (Olek)
+12. Jeremi
+13. Roman
+14. Juljan (Julek)
+15. Kazimierz (Kazio)
+16. Lech (Leszek)
+17. Lew
+18. Marian
+19. Rajmund
+20. Tomasz
+FEMALE NAMES
+1. Alicja (Ala)
+2. Barbara (Basia)
+3. Danuta
+4. Lidia (Lidka)
+5. Mira
+6. Halina (Halinka)
+7. Anna (Ania)
+8. Stefania (Stefa)
+9. Hanna (Hania)
+10. Janina (Janinka)
+11. Klara
+12. Krystyna (Srysia)
+13. Maria
+14. Dorota
+15. Ewa (Ewcia)
+16. Gabriela
+17. Helena (Hela)
+18. Irena (Irenka)
+19. Maryla
+20. Zofia (Zosia)
+MALE NAMES 2
+1. Waclaw (Wacek)
+2. Maciej (Maciek)
+3. Jan (Janek)
+4. Anatol
+5. Bohdan
+6. Bronislaw (Bronek)
+7. Czeslaw (Czesiu) 
+8. David
+9. Eugeniusz (Gienek)
+10. Henryk (Henio)
+11. Iwo
+12. Janusz (Janek)
+13. Marek
+14. Robert
+15. Slawomir (Slawek)
+16. Stanislaw (Stas)
+17. Wlodzimierz (Wlodek)
+18. Antoni
+19. Boguslaw (Bogus)
+20. Zygmunt (Zyga)
+SURNAMES 1
+1. Borowicz
+2. Czarnecka
+3. Grzeszczak
+4. Hlasko
+5. Hoffman
+6. Jaszczuk
+7. Kabanski
+8. Lewinska
+9. Zapadko
+10. Wajcowicz
+11. Kozicki
+12. Krassowska
+13. Krauze
+14. Wiwatowski
+15. Zborowski
+16. Malento
+17. Sawicka
+18. Meyer
+19. Kowalski
+20. Dudek
+SURNAMES 2
+1. Butkiewicz
+2. Ceglowska
+3. Kacprzak
+4. Michalowska
+5. Olszewska
+6. Pietrasiewicz
+7. Kalinowska
+8. Dunin
+9. Edelman
+10. Kapusta
+11. Kieffer
+12. Gerbert
+13. Golebiowska
+14. Karwicka
+15. Czechwicz
+16. Skiba
+17. Ptaszynski
+18. Strachalska
+19. Poiniatowski
+20. Samosarski
+SURNAMES 3
+1. Podkomorski
+2. Zakrzewska
+3. Saski
+4. Kunicki
+5. Kordulski
+6. Dabrowska
+7. Sidorowicz
+8. Wojnarowska
+9. Zwolinski
+10. Korzeniowska
+11. Pindelska
+12. Gral
+13. Lempicka
+14. Huskowski
+15. Jastrzebska
+16. Lewandowski
+17. Grabowska
+18. Polkowski
+19. Raciborski
+20. Slubicki

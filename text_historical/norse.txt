@@ -1,0 +1,216 @@
+﻿NORSE
+Compiled by Jason Morningstar
+NOTE
+Eth and thorn characters (ð, Ð, þ, Þ) are common in Anglo-Saxon, old Scandinavian, and modern Icelandic and Faroese.  They look really exotic and cool.  Pronounce them like "th" and don't worry about it.  
+MALE NAMES ONE
+1. Aðalbjörn
+2. Arnar
+3. Lárus
+4. Magni
+5. Rúnar
+6. Skúli
+7. Ásmundur
+8. Barði
+9. Geir
+10. Júrek
+11. Knút
+12. Gísli
+13. Berg
+14. Eymundur
+15. Falur
+16. Rúrik
+17. Skíði
+18. Valberg
+19. Skjöldur
+20. Brimi
+MALE NAMES TWO
+1. Böðvar
+2. Drengur
+3. Sören
+4. Ægir
+5. Ögri
+6. Tindur
+7. Úlfur
+8. Tór
+9. Dúi
+10. Eðvald
+11. Gunnar
+12. Hafni
+13. Fróði
+14. Galdur
+15. Njáll
+16. Snorri
+17. Ormur
+18. Óli
+19. Páll
+20. Rafnar
+MALE NAMES THREE
+1. Þorsteinn
+2. Reynar
+3. Gnúpur
+4. Vörður
+5. Þengill
+6. Grettir
+7. Halldór
+8. Guðlaugur
+9. Sturla
+10. Týr
+11. Unnar
+12. Hjálmar
+13. Ísar
+14. Kolgrímur
+15. Alfreð
+16. Úlfkell
+17. Þeyr
+18. Kormákur
+19. Þór
+20. Örvar
+FEMALE NAMES ONE
+1. Aðalfríður
+2. Yrsa
+3. Þura
+4. Árdís
+5. Bára
+6. Úlfrún
+7. Valdís
+8. Fríða
+9. Dóra
+10. Auðrún
+11. Freydís
+12. Drífa
+13. Júnía
+14. Kára
+15. Einhildur
+16. Pála
+17. Róshildur
+18. Úlfdís
+19. Rut
+20. Fjóla
+FEMALE NAMES TWO
+1. Glódís
+2. Ardís
+3. Hilda
+4. Fura
+5. Gauja
+6. Halla
+7. Gauthildur
+8. Hjálmrún
+9. Astrid
+10. Ingdis
+11. Jódís
+12. Lára
+13. Mirra
+14. Njála
+15. Gunnhildur
+16. Hafþóra
+17. Greta
+18. Oddrún
+19. Ormhildur
+20. Árlaug
+FEMALE NAMES THREE
+1. Lífdís
+2. Mardís
+3. Rúna
+4. Selka
+5. Hlédís
+6. Hlíf
+7. Iða
+8. Snædís
+9. Sóla
+10. Ásla
+11. Sólveig
+12. Eyþóra
+13. Finna
+14. Svala
+15. Unna
+16. Brigitta
+17. Dís
+18. Æsa
+19. Ölrún
+20. Guðfríður
+SURNAMES
+Create surnames by adding "-son" or "-dottir" to a parent's name.  Thus, Rúnar son of Berg, becomes Rúnar Bergsson and Fjóla, daughter of Brigitta, becomes Fjóla Brigittasdottir.  
+INTERESTING PLACES ONE
+1. Ætlanvik:  Conception inlet
+2. Stormasamurhvass:  Windy corner
+3. Tonnhofn:  Tooth harbor
+4. Valrskagi:  The "Field of Corpses" peninsula
+5. Rakurstaða:  Damp place
+6. Álar-Endirfoss:  Pommel-strap falls  
+7. Beinahusið holur: Charnel house hollow
+8. Stórsvan:  The stone swan, a landmark
+9. Smárstraumr umfirð:  Neap-tide passage
+10. Byrjotasund:  Shipwreck sound
+11. Dyrhellir:  Cave of the beasts
+12. Eyðingsalt:  "The Salt Desolation"
+13. Fjarvertey, Far West island
+14. Stigmaðurbjarn:   Bandit point
+15. Vanðræðivik:  Difficult inlet
+16. Garðrloft:  "The Sky-wall"
+17. Sleða-bakki:  "Sledge" ford
+18. Geirnefurskagi:  Gar-fish peninsula
+19. Skogurhörmulegur:  Dismal forest  
+20. Eplivatn:  Apple lake
+INTERESTING PLACES TWO
+1. Rauðrfold:  Red valley
+2. Graswegur:  The grass road
+3. Maurmyri:  Ant marsh
+4. Stóraviðass:  Windward rock
+5. Varðturn:  Beacon tower
+6. Gullin-Bursti:  Golden Top peak
+7. Harmsfullurströnd:  Dolorous coast
+8. Loftþræðirsjór:  Gossamer sea
+9. Fram-stafnhöll:  Prow hall, a ruin
+10. Galdramaðrturn:  The wizard's tower
+11. Heykrókur klettótur:  Pitchfork crag
+12. Kanínastaða:  Place of rabbits
+13. Landraðámaðrbelti:  "Traitor's Belt", a landmark
+14. Ættfaðrströnd:  Patriarch coast
+15. Knuivigi:  "The Knuckle", a fortress
+16. Mjolkvatn:  Milkwater, a lake
+17. Svarturvigi:  The black fortress
+18. Tonnbrekka:  Tooth hill 
+19. Veiðimaðrfingur:  Huntsman's finger, a landmark
+20. Arfloi: Oar bay
+DISTRICTS AND CLAN TERRITORIES
+1. Barnasveit:  Rookery island district 
+2. Rauðrfoldisveit:  Red valley district
+3. Beinahusið:  Charnel House Valley
+4. Ætlanviksveit:  Conception inlet district
+5. Tréhliðsveit:  Gate of trees district
+6. Hundurfoldisveit:  Dog valley district
+7. Stórfosssveit:  Stone falls district
+8. Ottarheimliðsveit:  Otter home district
+9. Sporjárnhússveit:  Chisel house district
+10. Heyhliðsveit:  Hay gate district
+11. Gjóllsveit:  Resounder river district
+12. Jökullskeggisveit:  Glacier island district 
+13. Ófrjórsundsveit:  Barren sound district
+14. Slétta-straþaksveit:  The thatch plain district
+15. Hrafnstraumursveit:  Raven river district
+16. Ulfhúsið:  Wolf house district
+17. Austurskorðasveit:  Eastern shore district 
+18. Mjolkvatnsveit:  Milkwater lake district
+19. Grarjarpursveit:  Grey bay district
+20. Hvalurviksveit:  Whale cove district
+INSULTS AND CURSES
+1. Blatonn:  Black tooth!
+2. Brusi:  He-goat!
+3. Gaugbrojotr:  Grave-robber!
+4. Haensa:  Chicken! (literal)
+5. Hlaðhand:  Clean-hands!
+6. Huglausi:  Coward!
+7. Kamphundr:  Carrion-eater!
+8. Kuensami:  Skirt-chaser!
+9. Oskelgetinn:  Bastard !
+10. Bacraut:  Asshole!
+11. Beiskaldi:  Complainer!
+12. Braudnefr:  Bread-nose!
+13. Griss:  Piglet!
+14. Illskælda:  Plagiarist!
+15. Istrumagi:  Fat-gut!
+16. Mainfetr:  Stink-fart!
+17. Meyla:  Little girl!
+18. Sipill:  Pot-licker!
+19. Tik:  Bitch! (literal)
+20. Skreyja:  Incompetent!

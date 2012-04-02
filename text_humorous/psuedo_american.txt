@@ -1,0 +1,87 @@
+﻿PSEUDO-AMERICAN
+Compiled by Graham Walmsley
+MALE
+1. Yo
+2. The Rock
+3. Whoah
+4. Gee
+5. Budweiser
+6. Walmart
+7. Clint
+8. Stallone
+9. Killa
+10. Brad
+11. Todd
+12. Joshua
+13. Bushwacka
+14. M.C.
+15. 2ThaMax
+16. LOL
+17. Newt
+18. Randy
+19. Will
+20. Jamie
+FEMALE
+1. Jenny
+2. Randy
+3. Unique
+4. Brandy
+5. Whisky
+6. Britney
+7. Christina
+8. Madonna
+9. Randy
+10. Princess
+11. Pryncezze
+12. Condoleeza
+13. Paris
+14. Hillary
+15. Majickk
+16. Missy
+17. Grace
+18. Martha
+19. Shelley
+20. Jamie
+SURNAMES
+1. McDonald
+2. Greenspan
+3. Gingrich
+4. Gates
+5. Bush
+6. McCain
+7. Rock
+8. Clinton
+9. Rumsfeld
+10. Leno
+11. Yoghurtski
+12. Jobs
+13. Economy
+14. Reagan
+15. Boojah
+16. Nixon
+17. Letterman
+18. Macy
+19. Gecko
+20. Reagan
+GENERATOR
+For an authentic-sounding American name, just combine three or four of these parts.
+1. john-
+2. -stein
+3. elli-
+4.  - the third 
+5. -ski 
+6. o'-
+7. mac-
+8. - oni -
+9. gold -
+10. steve -
+11. -bart
+12. -bush-
+13. rab-
+14. -field 
+15. -feld 
+16. -ton-
+17. -son-
+18. -sin-
+19. - junior 
+20. -let-

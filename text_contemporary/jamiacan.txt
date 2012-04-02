@@ -1,0 +1,65 @@
+﻿JAMAICAN
+Compiled by David Younce
+MALE 
+1. Marcus
+2. Desmond
+3. Robaire
+4. Alphonse
+5. Antoine
+6. Simeon
+7. Cornelius
+8. Patrice
+9. Jonathon
+10. Dominic
+11. Stevie
+12. Jarvis
+13. Tyreese
+14. Dauntay
+15. Charlie
+16. Demetrius
+17. Samuel
+18. Evander
+19. Lasean
+20. Martin
+FEMALE
+1. Angelique
+2. Jacinta
+3. Rosie
+4. Kea
+5. Bertrise
+6. Tiyah
+7. Adelaide
+8. Mercedes
+9. Ornella
+10. Precious
+11. Eleasha
+12. Sheree
+13. Desiree
+14. Lashaunta
+15. Isabelle
+16. Breona
+17. Chantrelle
+18. Henrietta
+19. Shalesia
+20. Danielle
+SURNAMES
+1. Dekker
+2. Belinfante
+3. Cato
+4. Walters
+5. Edwards
+6. Brown
+7. Elsevier
+8. DaCosta
+9. Newman
+10. Pabarue
+11. Samuels
+12. Melhado
+13. Waisome
+14. Francis
+15. Clarke
+16. Mullings
+17. Wedderburn
+18. Lawrence
+19. Marley
+20. Robinson

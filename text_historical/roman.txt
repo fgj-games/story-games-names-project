@@ -1,0 +1,443 @@
+﻿ROMAN
+Compiled by Jessica Hammer
+NOTES
+The praenomen is a name which distinguishes you from other members of your family.  Only men have praenomens, and they are rarely actually used except within the family.  The praenomina listed are the ONLY common praenomina within Rome.
+The nomen is a family name, which indicates which 'gens' (collection of families) you belong to.  People with the same nomen are either directly related to each other, or closely politically affiliated.  The names listed here are a representative sampling, but do comprise a large proportion of the existing names; new citizens would take the name of an existing gens instead of inventing new ones.
+The cognomen is the most commonly used name, which was assigned by the community or by your family.  You can think of it as analogous to a nickname.  These names were generally descriptive and often insulting.  For example, someone who drank too much might be called 'Bibulus.'  Alternately, the name can be sarcastic.  Someone who doesn't drink at all could also be called 'Bibulus.'  They are often (but not always) passed down within a family.  People can also accumulate multiple cognomena, ususally for outstanding characteristics such as great victory in battle.  Most words can be used as cognomena, particularly if there is some kind of story behind it.  The names here are simply examples.
+All names here are listed in their masculine forms.  Names are feminized by replacing "-us" with "-a" when necessary, though many cognomens do not require feminization as they do not all end in "-us."
+To create a male Roman name, choose one praenomen, one nomen, and one cognomen.  For example: Gaius Julius Caesar. 
+To create a female Roman name, choose and feminize one nomen and one optional cognomen.  Girls were often numbered instead of being given actual cognomens.  For example: Flavia Tertia. 
+PRAENOMEN LIST
+1. Gaius
+2. Lucius
+3. Marcus
+4. Publius
+5. Quintus
+6. Titus
+7. Tiberius
+8. Sextus
+9. Aulus
+10. Postumus
+11. Decimus
+12. Gnaeus
+13. Tertius
+14. Spurius
+15. Manius
+16. Servius
+17. Appius
+18. Numerius
+19. Vibius
+20. Primus
+NOMEN LIST 1
+1. Aelius
+2. Calpurius
+3. Moravius
+4. Naevius
+5. Caecilius
+6. Tullius
+7. Vibius
+8. Livius
+9. Lucilius
+10. Durmius
+11. Fabius
+12. Velleius
+13. Calidius
+14. Capenius
+15. Furius
+16. Galerius
+17. Domitius
+18. Fannius
+19. Cordius
+20. Larcius
+NOMEN LIST 2
+1. Albius
+2. Amatius
+3. Cornelius
+4. Laelius
+5. Flavius
+6. Aemilius
+7. Caelius
+8. Tuccius
+9. Curius
+10. Decius
+11. Fidelius
+12. Fulvius
+13. Gellius
+14. Horatius
+15. Manlius
+16. Hortensius
+17. Marcius
+18. Labenius
+19. Seius
+20. Luventius
+NOMEN LIST 3
+1. Ambrosius
+2. Memmius
+3. Lulius
+4. Sertorious
+5. Lucretius
+6. Marius
+7. Meridius
+8. Sempronius
+9. Pontius
+10. Numerius
+11. Octavius
+12. Popillius
+13. Annius
+14. Sergius
+15. Lucius
+16. Modius
+17. Licinius
+18. Scribonius
+19. Lunius
+20. Ovidius
+NOMEN LIST 4
+1. Antonius
+2. Papirius
+3. Sentius
+4. Minius
+5. Porcius
+6. Vipsanius
+7. Vitellius
+8. Petronius
+9. Verginius
+10. Rufius
+11. Appolonius
+12. Pompilius
+13. Postumius
+14. Rubellius
+15. Quintilius
+16. Rutilius
+17. Salvius
+18. Ursius
+19. Quintius
+20. Servilius
+NOMEN LIST 5
+1. Servius
+2. Arrius
+3. Claudius
+4. Silvius
+5. Suetonius
+6. Cassius
+7. Tarquitius
+8. Titinius
+9. Asinius
+10. Spurius
+11. Villius
+12. Atilius
+13. Ulpius
+14. Valerius
+15. Terentius
+16. Aurelius
+17. Vergilius
+18. Gratius
+19. Herennius
+20. Vitruvius
+COGNOMEN
+There are several special types of cognomena that may also be appropriate.  While there are not twenty of them, the other types are listed here:
+- Geographical: the city, region or tribe you are from.  For example, "Sabinus" means "Man of the Sabine tribe."
+- Honorific: often given after a great military victory to all who participated.  For example, "Germanicus" means that you or an ancestor participated in the subdual of some Germanic tribe.  Alternately, it could describe some great virtue, such as "Magnus" (generous) or "Pius" (dutiful).  These names are always awarded by others and can never be chosen by the individual.  Acquiring an honorific is an honor for the entire family.
+- Occupational: describing what you do.  Some are listed above, such as "Caprarius" which means "goat-herd."
+- Non-Roman: if you are not Roman, you may keep a Romanized version of your name when you become a citizen.  For example, "Idir" is a Berber name which could be used as a cognomen.
+- Adoptive: if you are adopted, you take the cognomen of your adoptive father, but you keep your original cognomen as a second cognomen.  The adoption is indicated by replacing the "-ius" ending with an "-ianus" ending in your original cognomen.
+COGNOMEN LIST 1
+1. Aculeo (prickly)
+2. Salinator (salt-harvester)
+3. Vetus (old)
+4. Vatia (awkward)
+5. Ambustus (scalded or burnt)
+6. Aquila (eagle)
+7. Vespillo (funeral director)
+8. Arvina (fat)
+9. Asina (donkey)
+10. Bassus (plump)
+11. Varus (bow-legged)
+12. Capito (big-headed)
+13. Agricola (farmer)
+14. Cato (shrewd)
+15. Catulus (whelp)
+16. Celerus (quick)
+17. Bibulus (drunkard)
+18. Celsus (tall)
+19. Cicero (chick pea)
+20. Blaesus (stammerer)
+COGNOMEN LIST 2
+1. Brutus (dumb)
+2. Ahala (armpit)
+3. Calidus (hot-headed)
+4. Agrippa (born feet first)
+5. Scaeva (left-handed)
+6. Bestia (animal-like)
+7. Scaurus (lame)
+8. Ahenobarbus (red-bearded)
+9. Varro (blockhead)
+10. Albinus (white or pale)
+11. Atellus (dark)
+12. Verres (pig)
+13. Albus (fair-skinned)
+14. Canus (golden-haired)
+15. Cicurinus (gentle)
+16. Brocchus (toothy)
+17. Crassus (fat)
+18. Pulcher/Pulchra (attractive)
+19. Quadratus (stocky)
+20. Rullus (boorish)
+COGNOMEN LIST 3
+1. Crispus (curly-haired)
+2. Bulbus (onion)
+3. Cursor (runner)
+4. Bucco (dolt)
+5. Caecus (blind)
+6. Barbatus (bearded)
+7. Rufus (red)
+8. Taurus (bull)
+9. Ruga (wrinkly)
+10. Vitulus (calf)
+11. Pavo (peacock)
+12. Pictor (painter)
+13. Musca (fly)
+14. Piso (mortar)
+15. Pullus (child)
+16. Proculus (bastard)
+17. Ralla (fine fabric)
+18. Naso (big-nosed)
+19. Priscus (ancient)
+20. Natta (artisan)
+COGNOMEN LIST 4
+1. Lentulus (slow)
+2. Camillus (priestly child)
+3. Lepidus (charming)
+4. Dolabella (hatchet)
+5. Figulus (potter)
+6. Labeo (mouthy)
+7. Niger (black)
+8. Licinus (bristly-haired)
+9. Calvus (bald)
+10. Lupus (wolf)
+11. Caninus (dog-like)
+12. Dives (wealthy)
+13. Mus (mouse)
+14. Nerva (vigorous)
+15. Helva (brown-haired)
+16. Longus (tall)
+17. Malleolus (hammer)
+18. Murena (eel)
+19. Imperiosus (domineering)
+20. Novellus (new-fangled)
+COGNOMEN LIST 5
+1. Ocella (small-eyed)
+2. Dentatus (toothy)
+3. Fimbria (fringes)
+4. Paterculus (little father)
+5. Lurco (gluttonous)
+6. Macer (skinny)
+7. Flaccus (floppy)
+8. Florus (blooming)
+9. Curvus (bent)
+10. Avitus (grandfatherly)
+11. Balbus (stutterer)
+12. Severus (severe)
+13. Strabo (squinty)
+14. Triarius (soldier)
+15. Superbus (proud)
+16. Turdus (little bird)
+17. Regulus (prince)
+18. Laenas (cloaked)
+19. Habitus (in good shape)
+20. Fullo (launderer)
+COGNOMEN LIST 6
+1. Plancus (flat-footed)
+2. Scipio (staff)
+3. Postumus (born posthumously)
+4. Mergus (sea-gull)
+5. Seneca (elderly)
+6. Silanus (nose)
+7. Merula (blackbird)
+8. Metellus (army follower)
+9. Scrofa (pig)
+10. Praeconinus (herald)
+11. Corvinus (crow-like)
+12. Laterensis (from the hill-side)
+13. Gemellus (a twin)
+14. Gurges (greedy)
+15. Paetus (squinty)
+16. Macula (blemish)
+17. Paullus (small)
+18. Cornutus (horned; also, cuckolded)
+19. Galeo (helmet)
+20. Cordus (born late)
+TRADE GOODS
+The Romans traded in nearly anything you can imagine, both within the empire and with external trading partners such as India and China.  However, the following were some of the largest trade industries in the ancient world.
+1. Grain
+2. Jewelry
+3. Coral
+4. Amber
+5. Dyes
+6. Cloth (cotton, wool and silk)
+7. Steel
+8. Wild animals
+9. Pottery (lamps and amphorae)
+10. Parchment
+11. Olive oil
+12. Marble
+13. Wine
+14. Pork
+15. Garum (fish sauce)
+16. Spices (salt and pepper were particularly valuable)
+17. Glass
+18. Lead
+19. Horses/mules
+20. Slaves
+TOWN STRUCTURES
+The following are buildings you might find in a Roman town.  All buildings are listed as singular/plural when the name is in Latin.
+1. Forum/Fora (town square and meeting place)
+2. Cryptoporticus/Cryptoportica (underground, colonnaded market)
+3. Cisterns (water storage)
+4. Aqueducts (channels to bring water into the city)
+5. Basilica/Basilica (public meeting hall and law court)
+6. Curia/Curiae (senate house)
+7. Temples (places of worship) 
+8. Macellus/Macella (market halls, full of shops of many different types)
+9. Horreus/Horrea (warehouses and granaries)
+10. Public baths (public bathhouses which could also include swimming pools or gymnasiums)
+11. Monuments (arches, columns, or statues dedicated by or to important people)
+12. Mansion/Mansiones (inns and wayhouses for the postal runners)
+13. Theaters (for the performance of plays)
+14. Odeum/Odea (a smaller theater where music was performed)
+15. Ampitheaters (for the gladiatorial games)
+16. Circuses (racetracks)
+17. Stadium/Stadia (public athletic facilities)
+18. Domus/Doma (single-family houses built around an atrium)
+19. Insula/Insulae (apartment buildings which could be as tall as eight stories high)
+20. Villas (luxurious country houses, often built on small farms)
+GOVERNMENTAL POSITIONS
+Romans loved bureaucracy and titles.  These positions give a sampling of the government jobs available to up-and-coming Roman citizens.  The priesthoods were often politically appointed, and so those jobs are also included here.
+1. Tribune Plebis (representative of the plebians)
+2. Quaestor (paymasters and accountants)
+3. Augur (priests legally permitted to read and interpret the auspices, signs from the gods)
+4. Aedile (maintainers of public buildings and commercial law)
+5. Praetor (civil judges and organizers of games and festivals)
+6. Pontifex (controlled state religion, including festival dates and historical records)
+7. Consul (military commanders and judges)
+8. Haruspex (priests who foretold the future from animal entrails)
+9. Epulone (priests responsible for public banquets on religious festivals)
+10. Judex (investigator appointed to deal with a specific potential crime)
+11. Vestal Virgin (virgins tending the fire on the state hearth at the temple of Vesta; could obtain pardons for criminals)
+12. Censor (census-keepers and awarders of government contracts)
+13. Rex Sacrorum/Regina Sacra ("sacred king"/"sacred queen" who had only ceremonial duties but high prestige)
+14. Apparitor (a scribe assigned to a government official)
+15. Lictor (attendants on government officials, permitted to carry arms in their presence)
+16. Frumentarius (spy; at higher ranks called Curiosus)
+17. Flamen (priest appointed to the service of a particular god or goddess)
+18. Arval Priest (priest who accepts sacrifices for the fertility of the fields)
+19. Praefectus (bureaucrat in charge of some trade good, such as grain)
+20. Legate (can be military or civil; receives the power to act on behalf of any non-religious appointment listed here)
+LEGION NAMES
+Combine any of these titles with a number from I to XXX to get an authentic-sounding legion name.  For example: III Parthica.
+1. Adiutrix
+2. Germanica
+3. Italica
+4. Macrinia
+5. Pia Fidelis
+6. Minervia
+7. Parthica
+8. Augusta
+9. Traiana
+10. Gallica
+11. Macedonica
+12. Flavia Felix
+13. Scythica
+14. Aludae
+15. Ferrata 
+16. Victrix
+17. Gemina
+18. Hispana
+19. Fulminata
+20. Primigenia
+MAJOR DEITIES
+While some of these deities may be familiar, the Romans also considered some apparently minor deities (such as Flora) to be seriously important. 
+1. Ceres
+2. Jupiter
+3. Juno
+4. Flora
+5. Mars
+6. Pomona
+7. Diana
+8. Bacchus
+9. Mercury
+10. Vesta
+11. Saturn
+12. Vulcan
+13. Neptune
+14. Minerva
+15. Venus
+16. Apollo
+17. Fortuna
+18. Quirinus
+19. Dis
+20. Janus
+MINOR DEITIES
+The Romans absorbed deities from many cultures.  Here are some of the minor or borrowed deities of Rome, along with their areas of influence.
+MINOR DEITIES 1
+1. Aericura (mother-goddess of the underworld)
+2. Andraste (victory)
+3. Angerona (silence and secrecy)
+4. Anna Perenna (the new year)
+5. Artio (forest animals and particularly bears)
+6. Atargatis (Syrian fertility goddess)
+7. Bellona (war)
+8. Bona Dea (fertility goddess)
+9. Bonus Eventus (successful enterprises)
+10. Carmentis (protection in childbirth)
+11. Castor and Pollux (popular demi-gods)
+12. Concordia (peace and agreement)
+13. Consus (granaries and harvest)
+14. Cupid (romantic love)
+15. Cybele (moon goddess worshiped with orgiastic rites)
+16. El-Gabal (Phoenician sun god)
+17. Epona (Celtic horse goddess)
+18. Faunus (also known as Pan)
+19. Felicitas (goddess of good luck)
+20. Feronia (spring flowers)
+MINOR DEITIES 2
+1. Fides (goddess of verbal contracts)
+2. Forculus (god of doors)
+3. Fornax (goddess of preventing grain from burning while drying.  really.)
+4. Gaia (earth goddess)
+5. Hecate (magic)
+6. Hercules (demi-god; worshipped as god of victory and of commerce)
+7. Honos (honor)
+8. Ianuaria (music and healing)
+9. Inuus (god of sex)
+10. Juventas (goddess of youth)
+11. Larentina (demi-goddess; nurse of Romulus and Remus)
+12. Latis (Celtic goddess of bogs and marshes)
+13. Libitina (funerals)
+14. Luna (moon)
+15. Matuta (goddess of the dawn)
+16. Nemesis (vengeance)
+17. Oceanus (god of the oceans)
+18. Pales (shepherds and sheep)
+19. Patelana (corn)
+20. Pax (peace)
+MINOR DEITIES 3
+1. Picus (prophetic god)
+2. Portunus (protector of harbors)
+3. Priapus (sheep and goats)
+4. Proserpina (germinating seeds and the underworld)
+5. Rediculus (god worshipped for his aid against Carthage)
+6. Robigo (god of rust and mildew)
+7. Roma (divine spirit of Rome)
+8. Rumina (nursing mothers)
+9. Sabazios (Phrygian god of magic)
+10. Salus (health)
+11. Silvanus (god of pastures and woodlands)
+12. Sirona (Celtic goddess worshipped as consort of Apollo)
+13. Sol Invictus (the unconquered Sun; Syrian god who replaced state religion for a time)
+14. Spes (hope)
+15. Sterculinus (manure-spreading)
+16. Talassius (god of marriage)
+17. Tempestates (trio of weather goddesses)
+18. Terminus (state god of boundary stones)
+19. Victoria (goddess of victory)
+20. Virtus (physical and moral excellence)

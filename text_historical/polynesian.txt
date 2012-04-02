@@ -1,0 +1,109 @@
+﻿PSEUDO-POLYNESIAN
+Compiled by Jason Morningstar
+NOTES
+Created using Lexgen, http://tmt.sourceforge.net/lexgen/, using Hawaiian phonemes as a base and adding some Nahuatl love for weirdness.
+MALE 1
+1. Maho
+2. Pimu'no'mo
+3. Mo'we'wilo
+4. Ke'tlo
+5. Miko
+6. Nuho
+7. Ki'punokawo
+8. Wepohu'ko
+9. Napokiho
+10. Nanahatlu
+11. Piku'pe
+12. Hu'u
+13. Hanehoha
+14. Lowukapi
+15. Nunihu'he
+16. Kapu
+17. Hohalekuwe
+18. Laluli'ke
+19. Pini'hukuhe
+20. Muha'lewe
+FEMALE 1
+1. Huka
+2. Ni'huka
+3. Ha'limuhuwapa
+4. Ku'ma
+5. Mi'hihona
+6. La'a
+7. Wehilaleka
+8. Pewalihuka
+9. Tlewatlepa
+10. Kopa'pamo'hoka
+11. Hekehehowa
+12. Hapi'ke'ma
+13. Nakemi
+14. Mi'ki
+15. Mokawuwo'wi
+16. Pipapuhi
+17. Milumumetli
+18. Luli
+19. Petlonelulotli
+20. Himuhi
+MALE 2
+1. Pu'u
+2. Lako'ne
+3. Hehomu
+4. Pu'mopuli
+5. Menepihe
+6. Noneheku
+7. Kitlehenake
+8. Kopokotle
+9. Nime
+10. Ku'u
+11. Naniwomemolu
+12. Kani'hunu
+13. Punokiwu'nu
+14. Nume
+15. Kakuhe
+16. Lamupimilowe
+17. Makopemu
+18. Nenehohawe
+19. Nelemamu
+20. Nukupenu
+FEMALE 2
+1. Tlotli
+2. Wuhohimi
+3. Ka'tlemi
+4. Ne'ma'li
+5. Tlo'mane'ha
+6. Ho'pone'hi
+7. Hi'mi'ka
+8. Lo'namana
+9. Mupiwe'pi
+10. Tli'nakina
+11. Palu'hi
+12. Ke'lohatla
+13. Pumiheweki
+14. Piha'hu'ki
+15. Ni'puna
+16. Tla'po'nipa
+17. Ma'kukepi
+18. Napilo'humuma
+19. Nimopa
+20. Kunohila
+GOD PLACES
+Tlolutli'kohuhu'ko
+Wanekamukinu
+Kumawiluwelo
+Kepikalewe'wule
+Tlukuke'niwa'
+Mewu'pa'nuki
+Mahowutlotlo
+Lowololihuhopa
+Nolapemupohena
+Pamimolupape
+Pepowahapihuki
+Hopu'nopilapope'
+Mepemeni'powu
+Mele'holekemu
+Mipuwanumo'
+Tlewenupemotlo
+Lupinenepoku
+Hatlonuhapotleni
+Welunepolokiha
+Kukawowuhukepu
