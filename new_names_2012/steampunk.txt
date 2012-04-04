@@ -1,0 +1,158 @@
+﻿STEAMPUNK
+Compiled by Rachel E.S. Walton
+
+MALE NAMES 1
+1. Alexsandar
+2. Ambrose
+3. Artemus
+4. Augustus
+5. Baptist
+6. Bartholomew
+7. Bertram
+8. Byron
+9. Clement
+10. Cornelius
+11. Cyrus
+12. Emerson
+13. Empleton
+14. Erasmus
+15. Harold
+16. Harrison
+17. Horace
+18. Jacob
+19. Jeremiah
+20. Jules
+
+MALE NAMES 2
+1. Lafayette
+2. Lancelot
+3. Langdon
+4. Lawrence
+5. Lazarus
+6. Meriwether
+7. Merrill
+8. Mordecai
+9. Oliver
+10. Oswald
+11. Palatine
+12. P. Gamble
+13. Phileas
+14. Pierre
+15. Rufus
+16. Silas
+17. Tobias
+18. Valentine
+19. Vash
+20. Zeke
+
+FEMALE NAMES 1
+1. Agatha
+2. Agnes
+3. Alethea
+4. Alexia
+5. Arabella
+6. Araminta
+7. Catherine
+8. Cecilia
+9. Clara
+10. Clementine
+11. Cleora
+12. Daphne
+13. Deryn
+14. Ellie
+15. Elvira
+16. Emmeline
+17. Eudora
+18. Eulalia
+19. Evangeline
+20. Genevieve
+
+FEMALE NAMES 2
+1. Gwendolyn
+2. Hattie
+3. Jessamine
+4. Lavinia
+5. Lottie
+6. Lyra
+7. Lucrezia
+8. Maggie
+9. Millicent
+10. Minerva
+11. Molly
+12. Octavia
+13. Parthenia
+14. Samantha
+15. Scarlett
+16. Sonya
+17. Sophronia
+18. Theodosia
+19. Violetta
+20. Zylpha
+
+MIDDLE NAMES AND SURNAMES 1
+1. Arronax
+2. Ashby
+3. Bastable
+4. Beckford
+5. Belacqua
+6. Berby
+7. Blaylock
+8. Breacy
+9. Brookes
+10. Burrowes
+11. Butterwick
+12. Carmichael
+13. Clyburn
+14. Copperfield
+15. Deveny
+16. DuBois
+17. Fogg
+18. Gordon
+19. Granville
+20. Greypartridge
+
+MIDDLE NAMES AND SURNAMES 2
+1. Hawkshaw
+2. Holloway
+3. Heterodyne
+4. Jeter
+5. Maguinnesse
+6. Marshal
+7. McMurdo
+8. Mongfish
+9. Northgood
+10. O’Hara
+11. Orchard
+12. Poole
+13. Prendergast
+14. Pye
+15. Quatermain
+16. Shekleton
+17. St. Ives
+18. Verne
+19. West
+20. Whipple
+
+EMPORIUM OF QUALITY INVENTORY
+1. Brass, leather-wrapped telescope
+2. Gilded hardwood hourglass
+3. Gold-plated pocket compass
+4. Silver clip-on magnifying loupe
+5. Professor Ocularo’s X-Ray Monocle
+6. Delux John Bull top hat
+7. Statesman brass walking stick
+8. Purple harlequin ascot
+9. Brown huxley stripe bow tie
+10. Black herringbone cashmere wool scarf
+11. Filigree and black pearl pocket watch
+12. Silver-plated barnstormer goggles
+13. Thin silver-rimmed spectacles
+14. White battenburg lace fan
+15. Red-fringed silk parasol
+16. Brown deerskin dress gloves
+17. Ivory cameo pin
+18. Charm necklace with locket and skeleton key
+19. Crystal hand mirror
+20. Perfume vial
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA  

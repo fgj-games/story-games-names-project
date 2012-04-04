@@ -1,0 +1,186 @@
+﻿HUNGARIAN
+Compiled by Adam Kleizer 
+
+NOTES
+In Hungary, the surname is placed first. In foreign context, Hungarians mostly use the Western name order to avoid confusion.
+A second given name is a rarity in Hungary and only used in the formal name, never in everyday practice.
+
+The formal name of a wife can contain the whole or part of the husband's name. The most common contemporary practice is to add the surname of the husband with the ending -né before the wife's premarital name. For example Fekete Csilla the wife of Németh Sándor, can use the formal name Némethné Fekete Csilla.
+
+MALE COMMON
+1. Ákos
+2. Zoltán
+3. János
+4. András
+5. Péter
+6. Ferenc
+7. István
+8. Gábor
+9. Csaba
+10. Gergely
+11. Máté
+12. Tamás
+13. Attila
+14. Zsolt
+15. Balázs
+16. Dániel
+17. László
+18. Viktor
+19. Sándor
+20. Choose from uncommon!
+
+MALE UNCOMMON
+1. Tibor
+2. József
+3. Antal
+4. Bálint
+5. Miklós
+6. Pál
+7. György
+8. Lajos
+9. Imre
+10. Gyula
+11. Jakab
+12. Béla
+13. Benedek
+14. Árpád
+15. Pál
+16. Mátyás
+17. Mihály
+18. Szabolcs
+19. Géza
+20. Choose from rare!
+
+MALE RARE
+1. Tas
+2. Csongor
+3. Huba
+4. Dezső
+5. Kolos
+6. Gáspár
+7. Álmos
+8. Frigyes
+9. Ignác
+10. Kund
+11. Vajk
+12. Sebestyén
+13. Csanád
+14. Vencel
+15. Taksony
+16. Hunor
+17. Zsigmond
+18. Zénó
+19. Lázár
+20. Zsombor
+
+FEMALE COMMON
+1. Zsuzsa
+2. Ágnes
+3. Eszter
+4. Gyöngyi
+5. Réka
+6. Emese
+7. Zsófia
+8. Kata
+9. Ibolya
+10. Krisztina
+11. Anna
+12. Dóra
+13. Tünde
+14. Sára
+15. Petra
+16. Ildikó
+17. Éva
+18. Tímea
+19. Judit
+20. Choose from uncommon!
+
+FEMALE UNCOMMOM
+1. Dorottya
+2. Virág
+3. Magdolna
+4. Noémi
+5. Cecília
+6. Heléna
+7. Erzsébet
+8. Zita
+9. Klára
+10. Edit
+11. Hajnalka
+12. Katalin
+13. Szilvia
+14. Márta
+15. Orsolya
+16. Ilona
+17. Anikó
+18. Piroska
+19. Csilla
+20. Choose from rare!
+
+FEMALE RARE
+1. Jolán
+2. Csenge
+3. Margit
+4. Zsóka
+5. Matild
+6. Panka
+7. Borbála
+8. Léda
+9. Iringó
+10. Tilda
+11. Róza
+12. Margó
+13. Sarolta
+14. Alma
+15. Etel
+16. Gizella
+17. Margaréta
+18. Hanga
+19. Luca
+20. Emőke
+
+SURNAMES I
+1. Nagy / tall
+2. Kovács / smith
+3. Tóth / Slavic
+4. Szabó / tailor
+5. Horváth / Croat
+6. Kiss / small
+7. Varga / shoemaker
+8. Molnár / miller
+9. Németh / German
+10. Farkas / wolf
+11. Balogh / left-handed
+12. Papp / priest
+13. Takács / weaver
+14. Juhász / shepherd
+15. Mészáros / butcher
+16. Lakatos / locksmith
+17. Oláh / Vlach
+18. Fazekas / potter
+19. Rácz / Serb
+20. Fekete / black
+
+SURNAMES II
+1. Szűcs / furrier
+2. Hegedűs / fiddler
+3. Boros / vinous
+4. Katona / soldier
+5. Pintér / cooper
+6. Sípos / whistler
+7. Király / king
+8. Magyar / Hungarian
+9. Vass / iron
+10. Bíró / judge
+11. Rózsa / rose
+12. Budai / from Buda
+13. Orosz / Russian
+14. Nemes / noble
+15. Pásztor / herdsman
+16. Török / Turkish
+17. Barna / brown
+18. Deák / student
+19. Vörös / red
+20. Choose two and add a hyphen between them!
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
